@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amyy45" alt="amyy45" /></a> </p>
 
-- 🔭 I’m currently working on **StegoShield**
+- 🔭 I’m currently working on [StegoShield](https://github.com/amyy45/StegoShield)
 
 - 📫 How to reach me **itssneha45@gmail.com**
 
