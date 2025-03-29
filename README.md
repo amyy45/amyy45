@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StegoShield](https://github.com/amyy45/StegoShield)
 
-- 📫 How to reach me **itssneha45@gmail.com**
+- 📫 How to reach me **snehasah22@ifheindia.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
