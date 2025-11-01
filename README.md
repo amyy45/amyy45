@@ -73,7 +73,7 @@ A security tool for detecting and analyzing steganography techniques in digital 
   <a href="mailto:threatlayer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://portfolio-gamma-hazel-29.vercel.app/" target="_blank">
+  <a href="https://portfolio-sneha45.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
