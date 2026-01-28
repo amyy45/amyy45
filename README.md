@@ -58,8 +58,13 @@ A security tool for detecting and analyzing steganography techniques in digital 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amyy45&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amyy45&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <!-- Metrics Dashboard -->
+  <img src="https://raw.githubusercontent.com/amyy45/amyy45/main/github-metrics.svg" />
+</p>
+
+<p align="center">
+  <!-- Streak Widget -->
+  <img src="https://streak-stats.demolab.com?user=amyy45&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
