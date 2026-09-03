@@ -14,7 +14,6 @@ Cybersecurity-focused B.Tech CSE student with a strong interest in **hands-on se
 
 ## 🧪 CTF & Security Labs
 - Regularly practicing challenges related to **web exploitation, Linux privilege escalation, and misconfigurations**
-- Working with intentionally vulnerable environments like **DVWA, Metasploitable2, and OWASP Juice Shop**
 - Using tools such as `nmap`, `burp suite`, `sqlmap`, `hydra`, and `wireshark`
 - Writing personal notes and **step-by-step breakdowns** to reinforce concepts
 
